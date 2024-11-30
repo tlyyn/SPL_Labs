@@ -1,0 +1,58 @@
+[
+    {
+        "base": "USD",
+        "target": "JPY",
+        "rate": 153.24,
+        "amount": 10.0,
+        "result": 1532.4
+    },
+    {
+        "base": "USD",
+        "target": "EUR",
+        "rate": 0.926,
+        "amount": 1000.0,
+        "result": 926.0
+    },
+    {
+        "base": "USD",
+        "target": "UAH",
+        "rate": 41.37,
+        "amount": 10.0,
+        "result": 413.7
+    },
+    {
+        "base": "USD",
+        "target": "EUR",
+        "rate": 0.926,
+        "amount": 10.0,
+        "result": 9.26
+    },
+    {
+        "base": "USD",
+        "target": "UAH",
+        "rate": 41.37,
+        "amount": 100.0,
+        "result": 4137.0
+    },
+    {
+        "base": "USD",
+        "target": "UAH",
+        "rate": 41.39,
+        "amount": 100.0,
+        "result": 4139.0
+    },
+    {
+        "base": "USD",
+        "target": "EUR",
+        "rate": 0.944,
+        "amount": 5.0,
+        "result": 4.72
+    },
+    {
+        "base": "USD",
+        "target": "EUR",
+        "rate": 0.944,
+        "amount": 5.0,
+        "result": 4.72
+    }
+]

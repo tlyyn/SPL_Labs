@@ -1,0 +1,7 @@
+{
+    "base": "USD",
+    "target": "UAH",
+    "rate": 41.37,
+    "amount": 100.0,
+    "result": 4137.0
+}
